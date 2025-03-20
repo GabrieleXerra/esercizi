@@ -10,4 +10,4 @@ Esercizi python
 check_palindrome(word="ANNA")
 
 -----------
-anna is  palindrome word
+anna is a palindrome word
